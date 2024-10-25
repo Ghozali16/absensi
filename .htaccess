@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^index$ index.php [L]
+RewriteRule ^dashboard$ dashboard.php [L]
+RewriteRule ^absen$ absen.php [L]
+RewriteRule ^login$ login.php [L]
+RewriteRule ^logout$ logout.php [L]
